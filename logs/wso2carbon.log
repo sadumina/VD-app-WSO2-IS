@@ -1,0 +1,8 @@
+#Vs Code PowerShell Integrated Terminal Error INFO:     127.0.0.1:54801 - "GET /api/users/all HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:54811 - "GET /api/users/me HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:54801 - "GET /api/users/all HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:54811 - "GET /api/users/me HTTP/1.1" 401 Unauthorized
+
+#Browser Console Error:
+
+Failed to load resource: net::ERR_CONNECTION_REFUSED
